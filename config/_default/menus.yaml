@@ -17,10 +17,10 @@ main:
   #  url: '#talks'
   #  weight: 40
   - name: Working Papaers
-    url: '#featured'
+    url: '#workingpapers'
     weight: 50
   - name: Short CV
-    url: '#contact'
+    url: '#shortcv'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
