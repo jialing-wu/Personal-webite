@@ -13,7 +13,7 @@ featured: false
 
 links:
   - name: Slide
-    url: static/uploads/matlab.pdf
+    url: /matlab.pdf
   - name: MATLAB Activities
     url: https://www.mathworks.com/campaigns/products/computational-thinking-examples.html#
   - name: Curriculum
