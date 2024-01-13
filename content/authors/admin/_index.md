@@ -47,9 +47,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+   # icon_pack: fas
+   # link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JialingWu_EER
@@ -73,5 +73,4 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am an Engineering Education Researcher currently pursuing my master degree in International Education Policy and Management at Vanderbilt Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. I am now serving as a Graduate Research Assistant at [Engineering for Us All](https://e4usa.org).
