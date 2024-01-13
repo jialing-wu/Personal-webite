@@ -16,7 +16,7 @@ publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*ASEE*"
-publication_short: ""
+publication_short: "ASEE"
 
 abstract: Coming soon...
 
