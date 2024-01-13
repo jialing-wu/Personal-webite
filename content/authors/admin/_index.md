@@ -73,4 +73,4 @@ social:
 highlight_name: true
 ---
 
-I am an Engineering Education Researcher currently pursuing my master degree in International Education Policy and Management at Vanderbilt Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. I am now serving as a Graduate Research Assistant at [Engineering for Us All](https://e4usa.org).
+I am an Engineering Education Researcher currently pursuing my master degree in International Education Policy and Management at Vanderbilt Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. <br> I am now serving as a Graduate Research Assistant at [Engineering for Us All](https://e4usa.org).
