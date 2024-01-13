@@ -45,11 +45,7 @@ sections:
   - block: collection
     id: workingpapers
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Working Papers
       filters:
         folders:
           - publication
