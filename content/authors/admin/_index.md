@@ -75,6 +75,8 @@ highlight_name: true
 
 I am an Engineering Education Researcher currently pursuing my master degree in International Education Policy and Management at Vanderbilt Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. <br> 
 <br>
-Previously, I spent five years as a headhunter, recruiting leadership team members for companies in the field of education, consulting, finance, industries, and pharmaceuticals. Moreover, I was a part-time volunteer at an NGO for migrant children. 
+
+Previously, I spent five years as a headhunter, recruiting leadership team members for companies in the field of education, consulting, finance, industries, and pharmaceuticals. Moreover, I servedd as a volunteer at an NGO for migrant children. 
 <br>
+
 I am now serving as a Graduate Research Assistant at [Engineering for Us All](https://e4usa.org).
