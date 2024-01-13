@@ -5,10 +5,8 @@ event: e4usa curriculum
 
 summary: MATLAB, Pre-college Engineering, Curriculum Design<br>
 
-date: '2023-12'
+date: '2023-01-01'
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
 
 # Is this a featured talk? (true/false)
 featured: false
