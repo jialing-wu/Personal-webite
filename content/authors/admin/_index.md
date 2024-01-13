@@ -35,7 +35,7 @@ education:
     # - course: PhD in Artificial Intelligence
     #  institution: Stanford University
     #  year: 2012
-    - course: Vanderbilt University, Peabody College
+    - course: Vanderbilt Peabody College
       institution: MEd in International Education Policy and Management
       year: 2024 (Expected)
     - course: Shanghai University
