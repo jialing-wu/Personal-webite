@@ -13,12 +13,12 @@ main:
  # - name: Projects
   #  url: '#projects'
   #  weight: 30
- # - name: Talks
-  #  url: '#talks'
-  #  weight: 40
+  - name: Talks
+    url: '#talks'
+    weight: 50
   - name: Working Papaers
     url: '#workingpapers'
-    weight: 50
+    weight: 40
   - name: Short CV
     url: '#shortcv'
     weight: 60
