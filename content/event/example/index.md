@@ -4,6 +4,10 @@ title: Wind Turbine Curriculum and MATLAB Activities
 event: e4usa curriculum
 
 summary: MATLAB, Pre-college Engineering, Curriculum Design<br>
+content: 
+  - What has been changed from Water Filter to Wind Turbine?
+  - What do the new MATLAB activities look like?
+  - Are there any notes for the new activities?
 
 date: '2023-10-01'
 
