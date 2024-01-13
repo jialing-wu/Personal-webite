@@ -60,7 +60,7 @@ sections:
   - block: experience
     id: shortcv
     content:
-      title: Experience
+      title: Short CV
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -70,27 +70,34 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Graduate Research Assistant
+          company: Vanderbilt Peabody College
+          company_url: 'https://peabody.vanderbilt.edu/'
+          company_logo: ''
+          location: Nashville, TN
+          date_start: '2023-09-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Graduate Research Assistant
+          company: Engineering for US All (e4usa) 
+          company_url: 'https://e4usa.org/'
+          company_logo: ''
+          location: Nashville, TN
+          date_start: '2023-06-01'
+          date_end: ''
+        - title: Program Coordinator and Teacher
+          company: AIQUZHI Volunteer Group
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ''
+          location: Shanghai, China 
+          date_start: '2017-07-01'
+          date_end: '2022-07-01'
+        - title: Consultant
+          company: Shanton Way Executive Search Co., Ltd.
+          company_url: ''
+          company_logo: ''
+          location: Shanghai, China 
+          date_start: '2017-07-01'
+          date_end: '2022-07-01'
     design:
       columns: '2'
 
