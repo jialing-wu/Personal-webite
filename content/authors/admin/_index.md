@@ -75,10 +75,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am an Engineering Education Researcher and am now serving as a Science Education Intern at [Howard Hughes Medical Institute (HHMI)](https://www.hhmi.org/)
-I am also a Research Assistant at [Engineering for Us All](https://e4usa.org). 
+From 24 Fall, I will pursuing my Ph.D. degree in Engineering Education at the Ohio State University. I got my master's degree in International Education Policy and Management at Vanderbilt Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. I am now a Science Education Intern at [Howard Hughes Medical Institute (HHMI)](https://www.hhmi.org/). I also serve as a Research Assistant at [Engineering for Us All](https://e4usa.org). <br> 
 <br>
-From 24 Fall, I will pursuing my Ph.D. at the Ohio State University. I got my master's degree in International Education Policy and Management at Vanderbilt Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. <br> 
-<br>
-Previously, I spent five years as a headhunter, recruiting leadership team members for companies in the field of education, consulting, finance, industries, and pharmaceuticals. Moreover, I served as a volunteer at an NGO for migrant children. 
+Previously, I worked as as a headhunter for five years, recruiting leadership team members for companies in the field of education, consulting, finance, industries, and pharmaceuticals. Moreover, I served as a Program Coordinator and Volunteer Teacher at an NGO for migrant children in China. 
