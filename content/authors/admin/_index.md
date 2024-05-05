@@ -26,8 +26,8 @@ organizations:
 # Interests to show in About widget
 interests:
   - Advanced Technology in EER
-  - Engineering Identity
-  - Instructional Design
+  - International Engineering Education
+  - Mix-method research
 
 # Education to show in About widget
 education:
@@ -35,11 +35,14 @@ education:
     # - course: PhD in Artificial Intelligence
     #  institution: Stanford University
     #  year: 2012
+    - course: The Ohio State University
+      institution: Ph.D. in Engineering Education
+      year: 2028 (Expected) 
     - course: Vanderbilt Peabody College
-      institution: MEd in International Education Policy and Management
-      year: 2024 (Expected)
+      institution: M.Ed. in International Education Policy and Management
+      year: 2024 
     - course: Shanghai University
-      institution: BEng in Mechanical Engineering
+      institution: B.Eng. in Mechanical Engineering
       year: 2017
 
 # Social/Academic Networking
@@ -73,6 +76,9 @@ social:
 highlight_name: true
 ---
 
-I am an Engineering Education Researcher currently pursuing my master degree in International Education Policy and Management at Vanderbilt Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. <br> 
+I am an Engineering Education Researcher and am now serving as a Science Education Intern at [Howard Hughes Medical Institute (HHMI)](https://www.hhmi.org/)
+I am also a Research Assistant at [Engineering for Us All](https://e4usa.org). 
 <br>
-Previously, I spent five years as a headhunter, recruiting leadership team members for companies in the field of education, consulting, finance, industries, and pharmaceuticals. Moreover, I served as a volunteer at an NGO for migrant children. I am now serving as a Graduate Research Assistant at [Engineering for Us All](https://e4usa.org).
+From 24 Fall, I will pursuing my Ph.D. at the Ohio State University. I got my master's degree in International Education Policy and Management at Vanderbilt Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. <br> 
+<br>
+Previously, I spent five years as a headhunter, recruiting leadership team members for companies in the field of education, consulting, finance, industries, and pharmaceuticals. Moreover, I served as a volunteer at an NGO for migrant children. 
