@@ -59,9 +59,6 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/jialing-wu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jialingwueducation/
@@ -73,6 +70,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/jialing-wu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
