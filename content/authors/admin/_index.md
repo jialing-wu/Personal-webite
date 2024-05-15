@@ -75,6 +75,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-From 24 Fall, I will pursuing my Ph.D. degree in Engineering Education at the Ohio State University. I got my Master's degree in Education at Vanderbilt University, Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. <br> 
+From 24 Fall, I will pursue my Ph.D. degree in Engineering Education at the Ohio State University. I got my Master of Education at Vanderbilt University, Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. <br> 
 <br>
 I am now a Science Education Intern at [Howard Hughes Medical Institute (HHMI)](https://www.hhmi.org/). I also serve as a Research Assistant at [Engineering for Us All](https://e4usa.org). Previously, I worked as as a headhunter for five years, recruiting leadership team members for companies in the field of education, consulting, finance, industries, and pharmaceuticals. Moreover, I served as a Program Coordinator and Volunteer Teacher at an NGO for migrant children in China. 
