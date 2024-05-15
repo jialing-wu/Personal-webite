@@ -65,7 +65,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jialingwueducation/
-  - icon: xiaohongshu
+  - icon: custom/xiaohongshu.svg
     link: https://www.xiaohongshu.com/user/profile/5fb732d5000000000100b1ef
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
