@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: workingpapers
     content:
-      title: Works
+      title: Publications
       filters:
         folders:
           - publication
@@ -54,15 +54,15 @@ sections:
       columns: '2'
       view: citation
   # - block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent Projects
-  #    filters:
-  #      folders:
-  #        - event
-    design:
-      columns: '2'
-      view: compact
+  #   id: talks
+  #   content:
+  #     title: Recent Projects
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   - block: experience
     id: shortcv
     content:
@@ -77,14 +77,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Assessment Intern, Science Education
-          company: Howard Hughes Medical Institute (HHMI) 
+          company: Howard Hughes Medical Institute (HHMI)
           company_url: 'https://www.biointeractive.org/'
           company_logo: ''
           location: Hybrid, Maryland
           date_start: '2024-05-28'
-          date_end: '2024-08-9'
+          date_end: '2024-08-09'
         - title: Graduate Research Assistant
-          company: Engineering for US All (e4usa) 
+          company: Engineering for US All (e4usa)
           company_url: 'https://e4usa.org/'
           company_logo: ''
           location: Hybrid, Nashville, TN
@@ -101,18 +101,16 @@ sections:
           company: AIQUZHI Volunteer Group
           company_url: ''
           company_logo: ''
-          location: Shanghai, China 
+          location: Shanghai, China
           date_start: '2017-07-01'
           date_end: '2022-07-01'
         - title: Consultant
           company: Shanton Way Executive Search Co., Ltd.
           company_url: ''
           company_logo: ''
-          location: Shanghai, China 
+          location: Shanghai, China
           date_start: '2017-07-01'
           date_end: '2022-07-01'
     design:
       columns: '2'
-
-
 ---
