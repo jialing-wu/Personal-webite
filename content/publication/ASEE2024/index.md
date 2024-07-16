@@ -1,5 +1,4 @@
 ---
----
 title: "High School Students' Perspectives on Pre-college Engineering Education Courses (Fundamental)"
 authors:
   - admin
@@ -92,4 +91,3 @@ url_video: ''
 # slides: example
 ---
 
----
