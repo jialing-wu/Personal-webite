@@ -53,13 +53,13 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent Projects
-      filters:
-        folders:
-          - event
+  # - block: collection
+  #  id: talks
+  #  content:
+  #    title: Recent Projects
+  #    filters:
+  #      folders:
+  #        - event
     design:
       columns: '2'
       view: compact
