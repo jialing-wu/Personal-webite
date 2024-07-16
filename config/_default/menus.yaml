@@ -13,10 +13,10 @@ main:
  # - name: Projects
   #  url: '#projects'
   #  weight: 30
-  - name: Recent Projects
-    url: '#talks'
-    weight: 50
-  - name: Working Papaers
+ # - name: Recent Projects
+ #   url: '#talks'
+ #   weight: 50
+  - name: Publications
     url: '#workingpapers'
     weight: 40
   - name: Short CV
