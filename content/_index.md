@@ -76,21 +76,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assessment Intern, Science Education
+          company: Howard Hughes Medical Institute (HHMI) 
+          company_url: 'https://www.biointeractive.org/'
+          company_logo: ''
+          location: Hybrid, Maryland
+          date_start: '2024-05-28'
+          date_end: '2024-08-9'
+        - title: Graduate Research Assistant
+          company: Engineering for US All (e4usa) 
+          company_url: 'https://e4usa.org/'
+          company_logo: ''
+          location: Hybrid, Nashville, TN
+          date_start: '2023-06-01'
+          date_end: '2024-07-31'
         - title: Graduate Research Assistant
           company: Vanderbilt Peabody College
           company_url: 'https://peabody.vanderbilt.edu/'
           company_logo: ''
           location: Nashville, TN
           date_start: '2023-09-01'
-          date_end: ''
-        - title: Graduate Research Assistant
-          company: Engineering for US All (e4usa) 
-          company_url: 'https://e4usa.org/'
-          company_logo: ''
-          location: Nashville, TN
-          date_start: '2023-06-01'
-          date_end: ''
-        - title: Program Coordinator and Teacher
+          date_end: '2024-05-10'
+        - title: Program Coordinator and Volunteer Teacher
           company: AIQUZHI Volunteer Group
           company_url: ''
           company_logo: ''
