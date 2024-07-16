@@ -56,7 +56,7 @@ social:
   #   icon_pack: fas
   #   link: '/#contact'
   - icon: google-scholar
-    icon_pack: brands
+    icon_pack: fab
     link: https://scholar.google.com/citations?hl=en&authuser=1&user=lDBJytwAAAAJ
   - icon: github
     icon_pack: fab
