@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: workingpapers
     content:
-      title: Working Papers
+      title: Works
       filters:
         folders:
           - publication
