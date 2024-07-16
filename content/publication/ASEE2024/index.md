@@ -16,7 +16,7 @@ publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2024 American Society for Engineering Education (ASEE)"
-# publication_short: "ASEE"
+# publication_short: "2024 ASEE"
 
 abstract: |
   Since the introduction of Next Generation Science Standards (NGSS) in 2013, pre-college
