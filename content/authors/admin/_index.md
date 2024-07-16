@@ -17,15 +17,17 @@ role: Engineering Education Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Ph.D. Students at The Ohio State University
+    url: https://eed.osu.edu/
   - name: M.Ed. at Vanderbilt Peabody College
     url: https://peabody.vanderbilt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: An Engineering Education Researcher include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Advanced Technology in EER
+  - Advanced Quantitative Methods in EER
   - International Engineering Education
   - Mix-method research
 
@@ -53,31 +55,34 @@ social:
   # - icon: envelope
    # icon_pack: fas
    # link: '/#contact'
-  - icon: twitter
+  - icon: google-scholar
+    icon_pack: brands
+    link: https://scholar.google.com/citations?hl=en&authuser=1&user=lDBJytwAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/jialing-wu
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jialingwueducation/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+  - icon: obp
+    icon_pack: ai
+    link: https://www.xiaohongshu.com/user/profile/5fb732d5000000000100b1ef
+ - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JialingWu_EER
     label: Follow me on Twitter
     display:
       header: true
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/jialingwueducation/
-  - icon: obp
-    icon_pack: ai
-    link: https://www.xiaohongshu.com/user/profile/5fb732d5000000000100b1ef
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/jialing-wu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-From 24 Fall, I will pursue my Ph.D. degree in Engineering Education at the Ohio State University. I got my Master of Education at Vanderbilt University, Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. <br> 
+I am a first-year Ph.D. student in Engineering Education at The Ohio State University. I got my Master of Education at Vanderbilt University, Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. <br> 
 <br>
-I am now a Science Education Intern at [Howard Hughes Medical Institute (HHMI)](https://www.hhmi.org/). I also serve as a Research Assistant at [Engineering for Us All](https://e4usa.org). Previously, I worked as as a headhunter for five years, recruiting leadership team members for companies in the field of education, consulting, finance, industries, and pharmaceuticals. Moreover, I served as a Program Coordinator and Volunteer Teacher at an NGO for migrant children in China. 
+Previously, I did my summer internship in BioInteractive team (Science Education) at [Howard Hughes Medical Institute (HHMI)]https://www.biointeractive.org/). I also served as a Research Assistant at [Engineering for Us All](https://e4usa.org). From 2017 to 2022, I worked as as a headhunter, recruiting leadership team members for companies in the field of education, consulting, finance, industries, and pharmaceuticals. Moreover, I served as a Program Coordinator and Volunteer Teacher at an NGO for migrant children in China. 
