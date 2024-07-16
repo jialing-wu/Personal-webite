@@ -37,14 +37,14 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
-    - course: Ph.D. in Engineering Education
-      institution: The Ohio State University
+    - course: The Ohio State University
+      institution: Ph.D. in Engineering Education
       year: 2028 (Expected)
-    - course: M.Ed. in International Education Policy and Management
-      institution: Vanderbilt Peabody College
+    - course: Vanderbilt Peabody College
+      institution: M.Ed. in International Education Policy and Management
       year: 2024
-    - course: B.Eng. in Mechanical Engineering
-      institution: Shanghai University
+    - course: Shanghai University
+      institution: B.Eng. in Mechanical Engineering
       year: 2017
 
 # Social/Academic Networking
