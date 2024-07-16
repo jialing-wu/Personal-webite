@@ -35,16 +35,16 @@ interests:
 education:
   courses:
     # - course: PhD in Artificial Intelligence
-    #  institution: Stanford University
-    #  year: 2012
-    - course: The Ohio State University
-      institution: Ph.D. in Engineering Education
-      year: 2028 (Expected) 
-    - course: Vanderbilt Peabody College
-      institution: M.Ed. in International Education Policy and Management
-      year: 2024 
-    - course: Shanghai University
-      institution: B.Eng. in Mechanical Engineering
+    #   institution: Stanford University
+    #   year: 2012
+    - course: Ph.D. in Engineering Education
+      institution: The Ohio State University
+      year: 2028 (Expected)
+    - course: M.Ed. in International Education Policy and Management
+      institution: Vanderbilt Peabody College
+      year: 2024
+    - course: B.Eng. in Mechanical Engineering
+      institution: Shanghai University
       year: 2017
 
 # Social/Academic Networking
@@ -53,10 +53,10 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   # - icon: envelope
-   # icon_pack: fas
-   # link: '/#contact'
+  #   icon_pack: fas
+  #   link: '/#contact'
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: brands
     link: https://scholar.google.com/citations?hl=en&authuser=1&user=lDBJytwAAAAJ
   - icon: github
     icon_pack: fab
@@ -70,7 +70,7 @@ social:
   - icon: obp
     icon_pack: ai
     link: https://www.xiaohongshu.com/user/profile/5fb732d5000000000100b1ef
- - icon: twitter
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JialingWu_EER
     label: Follow me on Twitter
@@ -82,6 +82,7 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 I am a first-year Ph.D. student in Engineering Education at The Ohio State University. I got my Master of Education at Vanderbilt University, Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. <br> 
 <br>
