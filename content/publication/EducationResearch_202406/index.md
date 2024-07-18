@@ -15,11 +15,11 @@ publishDate: "2024-06-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ["article-conference"]
+publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Work in Process"
-# publication_short: "WIP"
+publication_short: "WIP"
 
 abstract: |
   Online credit recovery (OCR) courses are the most common means through which students retake
@@ -74,4 +74,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
