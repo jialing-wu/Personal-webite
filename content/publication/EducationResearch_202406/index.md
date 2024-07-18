@@ -1,11 +1,14 @@
 ---
 title: "Failing to Learn from Failure: The Facade of Online Credit Recovery Assessments"
 authors:
-  - [Jennifer Darling-Aduana](https://education.gsu.edu/profile/jennifer-darling-aduana/)
-  - [Carolyn J. Heinrich](https://peabody.vanderbilt.edu/bio/?pid=carolyn-heinrich)
-  - Jeremy Noonan
-  - admin
-  - [Kathryn Enriquez](https://scholar.google.com/citations?user=WSl0Z60AAAAJ&hl=en)
+  - name: Jennifer Darling-Aduana
+    url: https://education.gsu.edu/profile/jennifer-darling-aduana/
+  - name: Carolyn J. Heinrich
+    url: https://peabody.vanderbilt.edu/bio/?pid=carolyn-heinrich
+  - name: Jeremy Noonan
+  - name: admin
+  - name: Kathryn Enriquez
+    url: https://scholar.google.com/citations?user=WSl0Z60AAAAJ&hl=en
 date: "2024-06-01T00:00:00Z"
 doi: ""
 
@@ -19,7 +22,7 @@ publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Work in Process"
-publication_short: "WIP"
+# publication_short: "WIP"
 
 abstract: |
   Online credit recovery (OCR) courses are the most common means through which students retake
