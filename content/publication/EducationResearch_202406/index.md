@@ -1,14 +1,11 @@
 ---
 title: "Failing to Learn from Failure: The Facade of Online Credit Recovery Assessments"
 authors:
-  - name: Jennifer Darling-Aduana
-    url: https://education.gsu.edu/profile/jennifer-darling-aduana/
-  - name: Carolyn J. Heinrich
-    url: https://peabody.vanderbilt.edu/bio/?pid=carolyn-heinrich
-  - name: Jeremy Noonan
-  - name: admin
-  - name: Kathryn Enriquez
-    url: https://scholar.google.com/citations?user=WSl0Z60AAAAJ&hl=en
+  - Jennifer Darling-Aduana
+  - Carolyn J. Heinrich
+  - Jeremy Noonan
+  - admin
+  - Kathryn Enriquez
 date: "2024-06-01T00:00:00Z"
 doi: ""
 
