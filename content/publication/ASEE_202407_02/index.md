@@ -17,7 +17,7 @@ publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2024 American Society for Engineering Education"
-publication_short: "2024 ASEE"
+# publication_short: "2024 ASEE"
 
 abstract: 
   Mathematical modeling skills are essential for engineers to solve real-world problems. While
