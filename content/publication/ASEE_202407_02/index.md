@@ -4,7 +4,7 @@ authors:
 - admin
 - Nicolas Leger
 - Stacy S Klein-Gardner
-date: "2024-07-01T00:00:00Z"
+date: "2024-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2024 American Society for Engineering Education (ASEE)"
-# publication_short: "2024 ASEE"
+publication: "2024 American Society for Engineering Education"
+publication_short: "2024 ASEE"
 
 abstract: 
   Mathematical modeling skills are essential for engineers to solve real-world problems. While
@@ -28,7 +28,7 @@ abstract:
   unit, e4usa introduced a mathematical modeling lesson based on MATLAB to assist students in
   simulating impurity removal by water filters. This paper explored the impact of MATLAB
   activities on students’ perspectives on modeling, offering insights for improving future
-  engineering education programs.
+  engineering education programs.<br>
   
   This study is part of a broader research project about mathematical modeling in e4usa. The
   research team conducted surveys, classroom observations, and focus group interviews involving
@@ -36,7 +36,7 @@ abstract:
   our findings from student focus group data from two schools in different states. We aimed to
   summarize the emerging themes that described the impact of our intervention. Additionally, we
   coded the data based on the concepts of Cognitive Load Theory (CLT) to understand the learning
-  process.
+  process.<br>
   
   As a result, we found the benefits of mathematical modeling with MATLAB in helping them
   make scientifically informed engineering design decisions by allowing the testing of different
