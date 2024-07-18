@@ -3,7 +3,7 @@ title: "High School Students' Perspectives on Pre-college Engineering Education 
 authors:
   - admin
   - Medha Dalal
-date: "2024-07-01T00:00:00Z"
+date: "2024-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
