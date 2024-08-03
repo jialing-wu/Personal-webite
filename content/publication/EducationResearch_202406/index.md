@@ -42,7 +42,7 @@ featured: false
 
 # Links
 links:
-  - name: "Online Link"
+  - name: "PDF"
     url: "https://my.vanderbilt.edu/carolynheinrich/files/2016/06/Failing-to-Learn-from-Failure_June-2024.pdf"
 url_pdf: 
 url_code: 
