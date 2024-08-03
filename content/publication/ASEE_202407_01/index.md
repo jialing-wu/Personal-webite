@@ -59,7 +59,7 @@ featured: false
 # Links
 links:
   - name: "Online Link"
-    url: "https://nemo.asee.org/public/conferences/344/papers/41858"
+    url: "https://peer.asee.org/high-school-students-perspectives-on-pre-college-engineering-education-courses-fundamental"
 url_pdf: 
 url_code: 
 url_dataset: ''
