@@ -17,7 +17,7 @@ role: Engineering Education Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ph.D. Students at The Ohio State University
+  - name: Ph.D. Student at The Ohio State University
     url: https://eed.osu.edu/
   - name: M.Ed. at Vanderbilt Peabody College
     url: https://peabody.vanderbilt.edu/
