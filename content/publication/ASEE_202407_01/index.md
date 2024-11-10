@@ -65,7 +65,7 @@ url_code:
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '/static/uploads/ASEE2024StudentsPerspective.pptx.pdf'
 url_source: ''
 url_video: ''
 
