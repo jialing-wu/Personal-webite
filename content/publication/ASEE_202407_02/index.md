@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2024 American Society for Engineering Education"
+publication: "2024 American Society for Engineering Education (ASEE)"
 # publication_short: "2024 ASEE"
 
 abstract: 
@@ -65,7 +65,7 @@ url_code:
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '/uploads/ASEE2024Mathatical.pptx.pdf'
 url_source: ''
 url_video: ''
 
