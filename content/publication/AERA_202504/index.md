@@ -18,7 +18,7 @@ publishDate: "2024-06-01T00:00:00Z"
 publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Work in Process"
+publication: 2025 American Educational Research Association (AERA)
 # publication_short: "WIP"
 
 abstract: |
