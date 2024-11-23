@@ -76,6 +76,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate Research Assistant
+          company: The Ohio State University
+          company_url: 'https://eed.osu.edu/'
+          company_logo: ''
+          location: Columbus, OH
+          date_start: '2024-05-28'
+          date_end: ''
         - title: Assessment Intern, Science Education
           company: Howard Hughes Medical Institute (HHMI)
           company_url: 'https://www.biointeractive.org/'
