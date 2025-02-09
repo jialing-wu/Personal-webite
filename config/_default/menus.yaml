@@ -26,7 +26,7 @@ main:
     url:  uploads/resume.pdf
     weight: 80 
   - name: Notebook (Building Now)
-    url: https://jlwexperienceshare.netlify.app/docs/
+    url: https://jlwexperienceshare.netlify.app
     weight: 100 
 
 # Link to a PDF of your resume/CV from the menu.
