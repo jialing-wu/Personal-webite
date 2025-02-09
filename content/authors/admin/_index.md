@@ -85,6 +85,5 @@ highlight_name: true
 
 ---
 I am a first-year Ph.D. student in Engineering Education at The Ohio State University. I earned my Master of Education at Vanderbilt University, Peabody College. I also hold a bachelor’s degree in Mechanical Engineering from Shanghai University, China. I am building a [Notebook](https://jlwexperienceshare.netlify.app/) to share my graduate school experiences, Ph.D. application journey, and learning notes in hopes of supporting others navigating similar paths. <br> 
-
 <br>
 Previously, I completed my summer internship with BioInteractive team (Science Education) at [Howard Hughes Medical Institute (HHMI)](https://www.biointeractive.org/). I also served as a Research Assistant at [Engineering for Us All](https://e4usa.org). From 2017 to 2022, I worked as a headhunter, recruiting leadership team members for companies in the field of education, consulting, finance, industry, and pharmaceuticals. Additionally, I served as a Program Coordinator and Volunteer Teacher at an NGO for migrant children in China. 
