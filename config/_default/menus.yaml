@@ -23,7 +23,7 @@ main:
   - name: Resume
     url:  uploads/resume.pdf
     weight: 40 
-  - name: Posts
+  - name: Notebook
     url: '#posts'
     weight: 60
 # Link to a PDF of your resume/CV from the menu.
