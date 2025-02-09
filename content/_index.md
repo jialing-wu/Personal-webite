@@ -53,16 +53,6 @@ sections:
     design:
       columns: '2'
       view: citation
-   - block: collection
-     id: talks
-     content:
-       title: Notebook
-       filters:
-         folders:
-           - event
-     design:
-       columns: '2'
-       view: article-grid
   - block: experience
     id: shortcv
     content:
