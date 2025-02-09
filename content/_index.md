@@ -53,16 +53,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent Projects
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
+  - block: collection
+    id: posts
+    content:
+      title: Notebook
+      filters:
+        folders:
+          - posts
+    design:
+      columns: '2'
+      view: compact
   - block: experience
     id: shortcv
     content:
