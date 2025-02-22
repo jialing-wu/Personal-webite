@@ -71,7 +71,7 @@ sections:
           company_url: 'https://eed.osu.edu/'
           company_logo: ''
           location: Columbus, OH
-          date_start: '2024-05-28'
+          date_start: '2024-08-26'
           date_end: ''
         - title: Assessment Intern, Science Education
           company: Howard Hughes Medical Institute (HHMI)
