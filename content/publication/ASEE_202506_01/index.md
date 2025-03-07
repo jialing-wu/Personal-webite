@@ -3,7 +3,7 @@ title: "Parents’ Knowledge, Attitude and Behavior on  Pre-college Engineering 
 authors:
   - Xingchen, Wei
   - admin
-  - Medha Dalal
+  - Stacy S Klein-Gardner 
 date: "2025-07-01T00:00:00Z"
 doi: ""
 
