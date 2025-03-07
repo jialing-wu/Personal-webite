@@ -31,8 +31,8 @@ abstract:
 
 # links:
 links:
-  - name: "Online Link"
-    url: "https://peer.asee.org/high-school-students-perspectives-on-mathematical-modeling-in-the-engineering-design-process-rtp"
+  - name: 
+    url:
 url_pdf: 
 url_code: 
 url_dataset: ''
