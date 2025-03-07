@@ -1,13 +1,14 @@
 ---
-title: "High School Students' Perspectives on Pre-college Engineering Education Courses (Fundamental)"
+title: "Parents’ Knowledge, Attitude and Behavior on  Pre-college Engineering Education Course (WIP)"
 authors:
+  - Xingchen, Wei
   - admin
   - Medha Dalal
-date: "2024-06-01T00:00:00Z"
+date: "2025-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-01T00:00:00Z"
+publishDate: "2025-03-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,38 +16,16 @@ publishDate: "2024-06-01T00:00:00Z"
 publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2024 American Society for Engineering Education (ASEE)"
-# publication_short: "2024 ASEE"
+publication: "2025 American Society for Engineering Education (ASEE)"
+# publication_short: "2025 ASEE"
 
 abstract: |
-  Since the introduction of Next Generation Science Standards (NGSS) in 2013, pre-college
-  engineering education has been on the rise. However, the impact of pre-college engineering
-  education courses on high school students’ perceptions of future careers remains unclear.
-  Engineering for US All (e4usa) aims to establish an accessible engineering education
-  environment by offering introductory engineering courses to high school students. The core
-  objective is to enhance high school students’ understanding of the engineering design process
-  and the real-world roles of engineers, empowering them to make well-informed career choices.
-  This paper focuses on examining the aspects of the pre-college engineering education curriculum
-  that are appreciated by the students which may influence engineering as their future career
-  choice.
+ Pre-college students’ Parents’ perspectives on education play a crucial role in their children’s learning outcomes and future development. While the importance of engineering education has received attention from instructional design and school systems, parent-related factors remain unclear. [Project Name REDACTED] aims to provide well-designed engineering courses for high school students who seek to make engineering deeply and meaningfully accessible to the world. Moreover, [Project Name REDACTED] encourages partnerships through communities and schools, allowing parents to participate with and better assist their children. This work-in-progress paper attempts to understand parents’ knowledge, attitudes, and behaviors (KAB) in engineering and engineering education, exploring potential opportunities to translate parents’ positive mindsets into actionable support.
 
-  The study is part of a larger research project, where the research team conducted surveys of
-  students participating in the e4usa during the 2022-2023 academic year. The survey was
-  administered in 33 schools across 20 states and regions in the U.S. A qualitative analysis was
-  conducted on the open-ended responses from the pre-test (n= 623) and post-test (n= 296)
-  surveys. We analyzed students’ perspectives on 1) their preferred and least favored aspects of the
-  engineering course and 2) their anticipated professions. We also conducted a quantitative
-  analysis on the connections between student demographic data and their consideration of future
-  engineering careers.
+The study conducted three semi-structured interviews with four parents whose children were enrolled in [Project Name REDACTED] courses in 2022. After transcribing the interview content, the first two authors conducted qualitative analysis with two rounds of coding. In the first round, we used KAB as the coding category. After discussion, an additional code, “scenario,” was added during the second round of coding to help fully capture what parents value.
 
-  Results discuss five emergent themes impacting students’ engagement in pre-college engineering
-  courses: Projects, Engineering Design Process, Flexibility and Creativity, Assignment and
-  Writing, Timeframe. We also noted a significant increase in students’ interest in engineering in
-  the post-test, especially for female students. Strengthening pre-college engineering education to
-  assist students in pursuing higher education and careers in the field of engineering has become an
-  urgent imperative. This paper will contribute to the growing body of knowledge on how
-  Generation Z perceives engineering and provide insights for the enhancement of future
-  engineering education programs.
+The preliminary results show that parents have basic ideas about engineering. Some of them have exposure due to their family background and have constructed an image of their child as a diligent and talented student. They also view their children’s involvement in engineering education positively, as it benefits their college applications and career choices. However, as engineering courses do not currently count towards Advanced Placement (AP) credits, parents express concerns about balancing the time to take engineering courses and fulfill perceived AP requirements for college admission. Parents’ actions are limited by a lack of information and connections with resources, but they still try to enhance their children’s engineering education by locating teachers, identifying relevant courses, and promoting family connections. Our next step is to conduct a broader interview among parents and explore potential methods for translating parents’ knowledge and attitudes into actions. For example, we could design informational sessions for parents, create engineering activities in which parents can participate, and link local network resources in engineering. This study aims to enhance parental involvement in engineering education by providing actionable insights and recommendations, ultimately supporting schools and policymakers in creating a more welcoming and effective educational environment.
+
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -58,14 +37,14 @@ featured: false
 
 # Links
 links:
-  - name: "Online Link"
-    url: "https://peer.asee.org/high-school-students-perspectives-on-pre-college-engineering-education-courses-fundamental"
+  - name: ""
+    url: ""
 url_pdf: 
 url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: '/uploads/ASEE2024StudentsPerspective.pptx.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
