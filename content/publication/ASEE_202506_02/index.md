@@ -31,10 +31,10 @@ abstract:
 
 # links:
 links:
-  - name: 
-    url:
-url_pdf: 
-url_code: 
+  - name: ""
+    url:""
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
