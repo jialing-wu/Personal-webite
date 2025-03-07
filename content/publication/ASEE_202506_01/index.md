@@ -19,7 +19,7 @@ publication_types: ["article-conference"]
 publication: "2025 American Society for Engineering Education (ASEE)"
 # publication_short: "2025 ASEE"
 
-abstract: |
+abstract
 Pre-college students’ Parents’ perspectives on education play a crucial role in their children’s learning outcomes and future development. While the importance of engineering education has received attention from instructional design and school systems, parent-related factors remain unclear. e4usa aims to provide well-designed engineering courses for high school students who seek to make engineering deeply and meaningfully accessible to the world. Moreover, e4usa encourages partnerships through communities and schools, allowing parents to participate with and better assist their children. This work-in-progress paper attempts to understand parents’ knowledge, attitudes, and behaviors (KAB) in engineering and engineering education, exploring potential opportunities to translate parents’ positive mindsets into actionable support.
 
 The study conducted three semi-structured interviews with four parents whose children were enrolled in e4usa courses in 2022. After transcribing the interview content, the first two authors conducted qualitative analysis with two rounds of coding. In the first round, we used KAB as the coding category. After discussion, an additional code, “scenario,” was added during the second round of coding to help fully capture what parents value.
