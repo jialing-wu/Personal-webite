@@ -19,7 +19,7 @@ publication_types: ["article-conference"]
 publication: "2025 American Society for Engineering Education (ASEE)"
 # publication_short: "2025 ASEE"
 
-abstract: 
+abstract: >
   **Background** Science, Technology, Engineering, and Mathematics (STEM) fields have increasingly highlighted the need to support minority groups to foster a more diverse and     equitable environment. While previous research has concentrated on female students in engineering, studies focusing on TGNC students are limited. Evidence indicates that TGNC students leave STEM disciplines at rates higher than or comparable to those of other marginalized groups./n
   
   **Purpose** This work-in-progress paper aims to investigate the impact of pre-college engineering courses on the self-efficacy of high school students, with a focus on Transgender and Gender Non-Conforming (TGNC) students, to advance a more equitable engineering education environment. /n
