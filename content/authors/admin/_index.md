@@ -27,7 +27,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Advanced Quantitative Methods in EER
+  - Computational Social Science
+  - Pre-college Engineering Education
   - International Engineering Education
   - Mix-method research
 
