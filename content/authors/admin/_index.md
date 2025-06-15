@@ -58,7 +58,7 @@ social:
   #   link: '/#contact'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&authuser=1&user=lDBJytwAAAAJ
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=1qK9_vUAAAAJ&gmla=AH8HC4wvVuZhMRV6-ydQyN6xbvUVjGHvee6z8-zP_gXzEn-TfeM8uFENirTtK4IXuRd5AOlONeVWPrDoDkfd6kMjsxP_UoDwTT8w8JqD9GHBbqtPjeIP
   - icon: github
     icon_pack: fab
     link: https://github.com/jialing-wu
