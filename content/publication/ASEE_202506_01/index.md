@@ -40,14 +40,14 @@ abstract: >
 
 # links:
 links:
-  - name: "Forthcoming"
-    url: ""
+  - name: "Online Link"
+    url: "https://peer.asee.org/advancing-equity-exploring-the-experiences-of-transgender-and-gender-non-conforming-students-in-a-pre-college-engineering-course-work-in-progress"
 url_pdf: 
 url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '/uploads/2025ASEETGNC.pptx.pdf'
 url_source: ''
 url_video: ''
 
