@@ -19,8 +19,6 @@ role: Engineering Education Researcher
 organizations:
   - name: Ph.D. Student at The Ohio State University
     url: https://eed.osu.edu/
-  - name: M.Ed. at Vanderbilt Peabody College
-    url: https://peabody.vanderbilt.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: An Engineering Education Researcher include distributed robotics, mobile computing and programmable matter.
